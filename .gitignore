@@ -33,6 +33,8 @@ db/*.sqlite3
 db/sphinx/**/*
 config/*.sphinx.conf
 config/database.yml
+config/deploy.rb
+config/deploy/*
 files/**/*
 attachments/datas/**/*
 public/avatars/**/*
