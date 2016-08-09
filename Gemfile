@@ -51,3 +51,6 @@ group :development do
 	gem 'capistrano-rvm',   '~> 0.1', require: false
 end
 
+gem 'execjs'
+gem 'therubyracer'
+
